@@ -8,7 +8,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
 
   letters = [];
-  phrase = 'Hello there, this is Rodrigo CIFO hospitalet...'.split('');
+  phrase = 'Hi, this is Rodrigo saying hello to CIFO hospitalet...'.split('');
   phrasePosition = 0;
 
   line = new Line(phrase.length);
