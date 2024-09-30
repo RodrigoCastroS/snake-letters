@@ -8,7 +8,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
 
   letters = [];
-  phrase = 'Esto es un ejemplo de código limpio'.split('');
+  phrase = 'Hello there, this is Rodrigo CIFO hospitalet...'.split('');
   phrasePosition = 0;
 
   line = new Line(phrase.length);
