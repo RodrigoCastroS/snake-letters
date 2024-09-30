@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inconsolata';
+  font-weight: 900;
+  background-color: #ffda00;
+}
+
+canvas {
+  vertical-align: bottom;
+}
